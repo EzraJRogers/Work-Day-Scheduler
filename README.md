@@ -13,3 +13,5 @@ Color-coded time blocks for easy identification:
 Past events: Grey
 Present events: Red
 Future events: Green
+
+<img width="1389" alt="Screenshot 2024-02-18 at 5 37 05 PM" src="https://github.com/EzraJRogers/Work-Day-Scheduler/assets/149369301/e15ef4e3-7f8c-4e4c-90a3-7176fa8dd951">
