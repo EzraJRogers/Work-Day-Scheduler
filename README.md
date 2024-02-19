@@ -1,4 +1,6 @@
-# Work Day Scheduler Starter Code
+Deployed Page: https://ezrajrogers.github.io/Work-Day-Scheduler/
+Repository Link: https://github.com/EzraJRogers/Work-Day-Scheduler
+
 Introduction
 
 Welcome to the Event Scheduler web application! This application is designed to help you manage your daily events by allowing you to schedule activities between 9 am and 5 pm. The time blocks are color-coded to indicate whether they are in the past, present, or future, providing a visual representation of your schedule.
